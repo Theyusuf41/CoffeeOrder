@@ -7,4 +7,19 @@ public class CoffeOrder {
         sizeOfCoffee();
 
     }
+
+    private static void sizeOfCoffee() {
+    }
+
+    private static void sugarAdd() {
+    }
+
+    private static void milkAdd() {
+    }
+
+    private static void whichCoffe() {
+    }
+
+    private static void menuCall() {
+    }
 }
