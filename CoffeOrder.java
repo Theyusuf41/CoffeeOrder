@@ -9,6 +9,7 @@ public class CoffeOrder {
     }
 
     private static void sizeOfCoffee() {
+        System.out.println("test123");
     }
 
     private static void sugarAdd() {
