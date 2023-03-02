@@ -1,7 +1,7 @@
 public class CoffeOrder {
     public static void main(String[] args) {
         menuCall();
-        whichCoffe();
+        whichCoffee();
         milkAdd();
         sugarAdd();
         sizeOfCoffee();
@@ -13,14 +13,18 @@ public class CoffeOrder {
     }
 
     private static void sugarAdd() {
+
     }
 
     private static void milkAdd() {
+
     }
 
-    private static void whichCoffe() {
+    private static void whichCoffee() {
+
     }
 
     private static void menuCall() {
+
     }
 }
